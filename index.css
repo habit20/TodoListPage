@@ -94,6 +94,7 @@ button {
     border: none;
     padding: none;
     background-color: rgba(255, 255, 255, 0);
+    cursor: pointer;
 }
 
 ul{
